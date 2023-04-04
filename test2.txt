@@ -1,2 +1,3 @@
-add branch -> pulbish branch -> pull request 
+add branch -> commit to branch
+pulbish branch -> pull request 
 -> main branch from this branch -> merge ?
